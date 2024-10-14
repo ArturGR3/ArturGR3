@@ -10,23 +10,23 @@ I'm deeply passionate about data science and committed to continuous learning. E
 
 ## 🎓 Recent Learning Achievements
 
-1. **MLOps Bootcamp**
-   - Completed an intensive MLOps bootcamp
-   - Capstone Project: Implemented AutoML and Auto Feature Engineering with modern MLOps practices
-   - [View my capstone project here](https://github.com/ArturGR3/MLOps-project) 
-
-2. **LLM Bootcamp**
+1. **LLM Bootcamp**
    - Successfully finished a Large Language Model (LLM) bootcamp
    - Capstone Project: Developed a RAG (Retrieval-Augmented Generation) application for recipe recommendations
    - [Check out my LLM project here](https://github.com/ArturGR3/food_search_RAG)
 
-3. **LLM Kaggle competition (Winning Solution)**
+2. **LLM Kaggle competition (Winning Solution)**
    - A winning solution to [LLM Zoomcamp Kaggle Competition](https://www.kaggle.com/competitions/llm-zoomcamp-2024-competition/leaderboard)
    - Techniques explored:
      - Structure Outputs using [Instructor library](https://github.com/instructor-ai/instructor)
      - Output validation & Retry mechanism
      - Multithreading
-       
+
+3. **MLOps Bootcamp**
+   - Completed an intensive MLOps bootcamp
+   - Capstone Project: Implemented AutoML and Auto Feature Engineering with modern MLOps practices
+   - [View my capstone project here](https://github.com/ArturGR3/MLOps-project)
+     
 ## 🔗 Connect with Me
 
 I'm always open to connecting with fellow data enthusiasts, professionals, and anyone interested in the world of data science. Feel free to reach out!
