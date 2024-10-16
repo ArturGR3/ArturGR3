@@ -15,7 +15,7 @@ I'm deeply passionate about data science and committed to continuous learning. E
    - Capstone Project: Developed a RAG (Retrieval-Augmented Generation) application for recipe recommendations
    - [Check out my LLM project here](https://github.com/ArturGR3/food_search_RAG)
 
-2. **LLM Kaggle competition (Winning Solution)**
+2. **[LLM Kaggle competition (Winning Solution)](https://github.com/ArturGR3/LLM-kaggle-competition)**
    - A winning solution to [LLM Zoomcamp Kaggle Competition](https://www.kaggle.com/competitions/llm-zoomcamp-2024-competition/leaderboard)
    - Techniques explored:
      - Structure Outputs using [Instructor library](https://github.com/instructor-ai/instructor)
