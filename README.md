@@ -1,36 +1,38 @@
-# Welcome my friend
+# Welcome to My GitHub Profile
 
 ## 👨‍💻 About Me
 
-Hello! I'm Artur Grygorian, a seasoned data scientist with around 10 years of experience in the field. I've had the privilege of working with industry giants like The Home Depot and Wayfair, where I've honed my skills and contributed to impactful data-driven solutions.
+I'm Artur Grygorian, a versatile technology professional with over a decade of experience spanning data science, data engineering, analytics, and technical product management. My career includes impactful roles at industry leaders like The Home Depot and Wayfair, where I've contributed to cutting-edge data-driven solutions and product innovations. 
 
 ## 🚀 Passion for Data
 
-I'm deeply passionate about data science and committed to continuous learning. Every day presents an opportunity to expand my knowledge and stay at the forefront of this rapidly evolving field.
+With a passion for leveraging data and technology to drive business outcomes, I've cultivated a diverse skill set that allows me to bridge the gap between technical implementation and strategic decision-making. My recent focus has been on advanced technologies in Large Language Models (LLMs) and MLOps, further expanding my capabilities in the rapidly evolving tech landscape.
 
 ## 🎓 Recent Learning Achievements
 
-1. **LLM Bootcamp**
-   - Successfully finished a Large Language Model (LLM) bootcamp
-   - Capstone Project: Developed a RAG (Retrieval-Augmented Generation) application for recipe recommendations
-   - [Check out my LLM project here](https://github.com/ArturGR3/food_search_RAG)
+1. **[LLM-Powered Food Recipe Recommendation System](https://github.com/ArturGR3/food_search_RAG)**
+   - Developed a sophisticated RAG (Retrieval-Augmented Generation) application:
+     - Explored LanceDB, FAISS for semantic, text, and hybrid search
+     - User feedback collections (likes, dislikes, clickstream data)
+     - Creating deployable application build in Gradio and fully containerized   
+   - Leveraged cutting-edge LLM technologies for personalized recipe suggestions
 
-2. **[LLM Kaggle competition (Winning Solution)](https://github.com/ArturGR3/LLM-kaggle-competition)**
-   - A winning solution to [LLM Zoomcamp Kaggle Competition](https://www.kaggle.com/competitions/llm-zoomcamp-2024-competition/leaderboard)
-   - Techniques explored:
-     - Structure Outputs using [Instructor library](https://github.com/instructor-ai/instructor)
-     - Output validation & Retry mechanism
-     - Multithreading
+2. **[Award-Winning LLM Solution](https://github.com/ArturGR3/LLM-kaggle-competition)**
+   - A winning solution to [LLM Zoomcamp Kaggle Competition](https://www.kaggle.com/competitions/llm-zoomcamp-2024-competition/leaderboard) - at solving math problems with LLMs
+   - Implemented advanced techniques showcasing both technical and analytical skills:
+     - [Structured outputs using the Instructor library](https://medium.com/@arturgrygorian3/solving-math-problems-with-llms-fed77f4cf4ec)
+     - [Python code generation & execution](https://medium.com/@arturgrygorian3/solving-math-problems-with-llms-e28cebfd2b82) 
+     - [High-performance multithreading](https://medium.com/@arturgrygorian3/solving-math-problems-with-llms-89b966e2d24c)
+     - [Mastering Error Handling and Retries](https://medium.com/@arturgrygorian3/solving-math-problems-with-llms-ec92c2a13797)
 
-3. **MLOps Bootcamp**
-   - Completed an intensive MLOps bootcamp
-   - Capstone Project: Implemented AutoML and Auto Feature Engineering with modern MLOps practices
-   - [View my capstone project here](https://github.com/ArturGR3/MLOps-project)
+3. **[MLOps-Driven AutoML Implementation](https://github.com/ArturGR3/MLOps-project)**
+   - Engineered an AutoML and Auto Feature Engineering solution
+   - Incorporated state-of-the-art MLOps practices (e.g. MLflow experimentation, containerization, deployment)
      
 ## 🔗 Connect with Me
 
-I'm always open to connecting with fellow data enthusiasts, professionals, and anyone interested in the world of data science. Feel free to reach out!
+I'm always keen to connect with fellow tech professionals, innovators, and leaders across various domains including data science, engineering, analytics, and product management. Let's explore potential collaborations or exchange ideas on the latest in technology and its business applications.
 
 - [LinkedIn](https://www.linkedin.com/in/arthurgrygorian/) <!-- Replace # with your LinkedIn profile URL -->
 
-If you'd like to discuss data science, share ideas, or explore potential collaborations, don't hesitate to connect with me on LinkedIn. I'm looking forward to engaging with the community!
+Feel free to reach out for discussions on advanced tech applications, emerging AI technologies, data-driven product strategies, or potential joint ventures. I'm excited to engage with forward-thinking professionals in our rapidly evolving field.
