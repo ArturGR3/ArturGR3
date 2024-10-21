@@ -25,6 +25,11 @@ With a passion for leveraging data and technology to drive business outcomes, I'
      - [High-performance multithreading](https://medium.com/@arturgrygorian3/solving-math-problems-with-llms-89b966e2d24c)
      - [Mastering Error Handling and Retries](https://medium.com/@arturgrygorian3/solving-math-problems-with-llms-ec92c2a13797)
 
+4. **[Youtub video Analyzer](https://github.com/ArturGR3/Youtube-transcript-Q-A)**
+   - Created a tool for analyzing YouTube video transcripts using LLM
+   - Features include topic extraction, Q&A capabilities, and timestamp linking
+   - Utilizes YouTube Transcript API, Instructor library, and streaming structural output
+
 3. **[MLOps-Driven AutoML Implementation](https://github.com/ArturGR3/MLOps-project)**
    - Engineered an AutoML and Auto Feature Engineering solution
    - Incorporated state-of-the-art MLOps practices (e.g. MLflow experimentation, containerization, deployment)
